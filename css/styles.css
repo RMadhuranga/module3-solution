@@ -1,0 +1,54 @@
+/* styles.css */
+/* styles.css */
+
+/* Navbar */
+.navbar {
+  margin-bottom: 0;
+}
+
+/* Menu options */
+.menu-options {
+  background-color:;
+  padding: 50px 0;
+}
+
+.navbar-default{
+	background-color:#D3D3D3;
+}
+
+.menu-options h3 {
+  margin-top: 0;
+}
+
+.menu-options p {
+  margin-bottom: 20px;
+}
+
+/* Chicken Menu */
+#chicken-menu {
+  background-color: #D3D3D3; 
+}
+
+/* Beef Menu */
+#beef-menu {
+  background-color: #D3D3D3; 
+}
+
+/* Sushi Menu */
+#sushi-menu {
+  background-color: #D3D3D3; 
+}
+
+/* Tall section */
+.tall-section {
+  background-color: #e9e9e9;
+  padding: 50px 0;
+}
+
+.tall-section p {
+  margin-bottom: 20px;
+}
+
+.navbar-nav{
+	vertical-align:center;
+}
